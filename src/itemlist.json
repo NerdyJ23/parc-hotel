@@ -1,0 +1,41 @@
+{
+
+  "items":
+  [
+    {
+      "id": 1,
+      "name": "Stylish Flannel",
+      "desc": "A staple of fashion, this flannel shirt will give anyone a confidence boost",
+      "price": 22.59,
+      "icon": "fancyShirt.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Fashionable Pants",
+      "desc": "Fine stitched jeans produced by some of the finest jean stitchers in the lands",
+      "price": 25.00,
+      "icon":"pants.jpg"
+    },
+    {
+      "id": 3,
+      "name":"Sheer Scarf",
+      "desc": "A merino wool scarf made from the finest wools",
+      "price": 50.00,
+      "icon":"merinoWoolScarf.jpg"
+    },
+    {
+      "id":4,
+      "name":"Perfume",
+      "desc":"Don't you deserve to smell as good as you look? With this new perfume by Parc Scents, you can!",
+      "price": 99.99,
+      "icon":"perfume.jpg"
+    },
+    {
+      "id":5,
+      "name":"Hotel quality sheets (1000 GSM)",
+      "desc":"High end sheets, featuring 1000 GSM, these sheets will make you feel like you're in your very own hotel!",
+      "price": 149.99,
+      "icon":"sheets.jpg"
+    }
+  ]
+  }
